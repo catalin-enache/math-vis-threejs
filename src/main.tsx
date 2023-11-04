@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import App from './App.tsx';
 import './index.css';
 
-import './scenarios/basic/basic';
+// import './scenarios/basic/basic';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
